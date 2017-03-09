@@ -62,7 +62,8 @@ Shaders for [GLSLSandbox](http://glslsandbox.com)
 `![LGTM](https://github.com/notargs/LGTM-Shaders/raw/master/Shader010.gif)`
 ![](https://github.com/notargs/LGTM-Shaders/raw/master/Shader010.gif)
 
-# MIT License
+## License
+MIT License
 
 Copyright (c) 2017 Yutaka Sato
 
